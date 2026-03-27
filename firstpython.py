@@ -1,0 +1,3 @@
+# display smth
+
+print("hello!")
